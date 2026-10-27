@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, mundo! 👋 Eu sou o Wesley Boettcher
 
-<!--
-**WesleyBoettcher/WesleyBoettcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** e em transição de carreira para a área de tecnologia (com foco em **Backend**). Trago comigo uma bagagem sólida em gestão administrativa, financeira e liderança operacional, unindo visão sistêmica de negócios com o desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias & Ferramentas
+* **Linguagens:** Python (Em aprendizado)
+* **Fundamentos:** Lógica de Programação, Algoritmos e Raciocínio Lógico
+* **Análise de Dados:** Power BI, Excel / Pacote Office
+* **Ferramentas:** Git, GitHub
+
+### 📚 O que estou estudando no momento?
+* Aprofundando meus conhecimentos em **Python** e estruturação de lógica de programação.
+* Conceitos de engenharia de software e arquitetura de sistemas para o ecossistema **Backend**.
+
+### 📫 Onde me encontrar:
+* **LinkedIn:** [Conecte-se comigo](https://linkedin.com/in/wesley-boettcher-253b112a8)
+* **E-mail:** wesleyboettcher1@gmail.com
