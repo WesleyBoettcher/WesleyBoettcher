@@ -7,7 +7,6 @@ Estudante de **Engenharia de Software** e em transição de carreira para a áre
 ### 💻 Tecnologias & Ferramentas
 * **Linguagens:** Python (Em aprendizado)
 * **Fundamentos:** Lógica de Programação, Algoritmos e Raciocínio Lógico
-* **Análise de Dados:** Power BI, Excel / Pacote Office
 * **Ferramentas:** Git, GitHub
 
 ### 📚 O que estou estudando no momento?
