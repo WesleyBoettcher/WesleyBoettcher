@@ -15,5 +15,5 @@ Estudante de **Engenharia de Software** e em transição de carreira para a áre
 * Conceitos de engenharia de software e arquitetura de sistemas para o ecossistema **Backend**.
 
 ### 📫 Onde me encontrar:
-* **LinkedIn:** [Conecte-se comigo](https://linkedin.com/in/wesley-boettcher-253b112a8)
+* **LinkedIn:** [Conecte-se comigo](www.linkedin.com/in/wesleyboettcher)
 * **E-mail:** wesleyboettcher1@gmail.com
